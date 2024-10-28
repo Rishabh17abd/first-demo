@@ -1,4 +1,4 @@
 # first-demo
 This is my Frist Git repository
-<br><hr>
+<br>
 Author - Rishabh Parikh
